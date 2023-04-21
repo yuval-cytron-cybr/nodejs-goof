@@ -30,7 +30,7 @@
     "file-type": "^8.1.0",
     "hbs": "^4.0.4",
     "humanize-ms": "1.0.1",
-    "jquery": "^3.5.0",
+    "jquery": "^3.6.4",
     "lodash": "4.17.21",
     "marked": "4.0.10",
     "method-override": "latest",
